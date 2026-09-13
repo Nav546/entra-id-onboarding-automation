@@ -2,7 +2,7 @@
 
 
 
-PowerShell scripts that automate the user lifecycle in Microsoft Entra ID using the Microsoft Graph SDK — turning manual identity admin into a repeatable, scriptable process.
+PowerShell scripts that automate the user lifecycle in Microsoft Entra ID using the Microsoft Graph SDK turning manual identity admin into a repeatable, scriptable process.
 
 
 

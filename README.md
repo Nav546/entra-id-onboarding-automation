@@ -18,7 +18,7 @@ Manually creating and disabling user accounts, assigning them to the right group
 
 
 
-\*\*Onboard-Users.ps1\*\*
+**\*\*Onboard-Users.ps1\*\***
 
 \- Reads a list of new hires from a CSV file (name, email, department)
 

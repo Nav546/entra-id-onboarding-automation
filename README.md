@@ -30,7 +30,7 @@ Manually creating and disabling user accounts, assigning them to the right group
 
 
 
-\*\*Offboard-Users.ps1\*\*
+**\*\*Offboard-Users.ps1\*\***
 
 \- Disables the user's account immediately
 

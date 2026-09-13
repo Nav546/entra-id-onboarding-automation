@@ -1,4 +1,4 @@
-\# Entra ID Onboarding \& Offboarding Automation
+**\# Entra ID Onboarding \& Offboarding Automation**
 
 
 
@@ -6,7 +6,7 @@ PowerShell scripts that automate the user lifecycle in Microsoft Entra ID using 
 
 
 
-\## The Problem
+**\## The Problem**
 
 
 
@@ -14,7 +14,7 @@ Manually creating and disabling user accounts, assigning them to the right group
 
 
 
-\## What It Does
+**\## What It Does**
 
 
 
@@ -40,7 +40,7 @@ Manually creating and disabling user accounts, assigning them to the right group
 
 
 
-\## Tech Used
+**\## Tech Used**
 
 
 
@@ -52,7 +52,7 @@ Manually creating and disabling user accounts, assigning them to the right group
 
 
 
-\## Example
+**\## Example**
 
 
 
@@ -66,7 +66,7 @@ Manually creating and disabling user accounts, assigning them to the right group
 
 
 
-\## What's Next
+**\## What's Next**
 
 
 
